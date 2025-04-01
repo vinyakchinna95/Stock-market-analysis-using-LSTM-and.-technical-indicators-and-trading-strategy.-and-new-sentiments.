@@ -1,0 +1,3 @@
+cd "C:\Users\saipr\OneDrive\Desktop"
+streamlit cache clear
+streamlit run LSS.py
